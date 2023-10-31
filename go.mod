@@ -1,4 +1,4 @@
-module github.com/eltaline/kitty
+module github.com/eltaline/skitty
 
 go 1.21.3
 
